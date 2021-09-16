@@ -1,0 +1,16 @@
+PODS:
+  - MGBinBuilder (0.1.0)
+
+DEPENDENCIES:
+  - MGBinBuilder (from `../`)
+
+EXTERNAL SOURCES:
+  MGBinBuilder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGBinBuilder: acd422bbd6e1013e8f2325cffccf78a4191211d7
+
+PODFILE CHECKSUM: 5465715d1b6d616c87e25a2ae4c80cdd0c5d74dc
+
+COCOAPODS: 1.11.2

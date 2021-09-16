@@ -1,0 +1,6 @@
+framework module MGBinBuilder {
+  umbrella header "MGBinBuilder-umbrella.h"
+
+  export *
+  module * { export * }
+}
